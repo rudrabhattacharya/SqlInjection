@@ -1,0 +1,16 @@
+F:\Work\Projects\DotNet\EmbedBrowserWithForms\SQLEncoderLibrary\bin\Debug\netstandard2.0\SQLEncoderLibrary.deps.json
+F:\Work\Projects\DotNet\EmbedBrowserWithForms\SQLEncoderLibrary\bin\Debug\netstandard2.0\SQLEncoderLibrary.dll
+F:\Work\Projects\DotNet\EmbedBrowserWithForms\SQLEncoderLibrary\bin\Debug\netstandard2.0\SQLEncoderLibrary.pdb
+F:\Work\Projects\DotNet\EmbedBrowserWithForms\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.csprojAssemblyReference.cache
+F:\Work\Projects\DotNet\EmbedBrowserWithForms\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.AssemblyInfoInputs.cache
+F:\Work\Projects\DotNet\EmbedBrowserWithForms\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.AssemblyInfo.cs
+F:\Work\Projects\DotNet\EmbedBrowserWithForms\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.dll
+F:\Work\Projects\DotNet\EmbedBrowserWithForms\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.pdb
+F:\Work\Projects\DotNet\SqlInjection\SQLEncoderLibrary\bin\Debug\netstandard2.0\SQLEncoderLibrary.deps.json
+F:\Work\Projects\DotNet\SqlInjection\SQLEncoderLibrary\bin\Debug\netstandard2.0\SQLEncoderLibrary.dll
+F:\Work\Projects\DotNet\SqlInjection\SQLEncoderLibrary\bin\Debug\netstandard2.0\SQLEncoderLibrary.pdb
+F:\Work\Projects\DotNet\SqlInjection\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.csprojAssemblyReference.cache
+F:\Work\Projects\DotNet\SqlInjection\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.AssemblyInfoInputs.cache
+F:\Work\Projects\DotNet\SqlInjection\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.AssemblyInfo.cs
+F:\Work\Projects\DotNet\SqlInjection\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.dll
+F:\Work\Projects\DotNet\SqlInjection\SQLEncoderLibrary\obj\Debug\netstandard2.0\SQLEncoderLibrary.pdb

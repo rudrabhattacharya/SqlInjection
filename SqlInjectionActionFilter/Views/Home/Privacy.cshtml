@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+@section Scripts{
+<script>
+    $(document).ready(function () {
+        $.ajax({
+        url: '@Url.Action("Data")',
+        type: "POST",
+        data: {
+            Name: "' DROP TABLE [dbo].[Employee]; --",
+            Salary: 50000,
+            Age: 38,
+            Title :"TA",
+            Partner :{
+                Name: "Mickey Mouse' OR 1=1 ",
+                Salary: 75000,
+                Age: 38,
+                Title :"TA"
+            },
+            Children :[
+                {
+                     Name: "Donald Duck",
+                     Salary: 100000,
+                     Age: 1,
+                     Title :"Champion"
+                }
+            ],
+        },
+        success: function (result) {
+                alert(result);
+        },
+        error: function (xhr, status, p3, p4) {
+            var err = "Error " + " " + status + " " + p3;
+            if (xhr.responseText && xhr.responseText[0] == "{")
+                err = JSON.parse(xhr.responseText).message;
+            alert(err);
+        }
+});
+
+    });
+
+    
+
+</script>
+}

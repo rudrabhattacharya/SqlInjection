@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SQLEncoder/1.0.0": {
+        "dependencies": {
+          "SQLEncoderLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SQLEncoder.dll": {}
+        }
+      },
+      "SQLEncoderLibrary/1.0.0": {
+        "runtime": {
+          "SQLEncoderLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SQLEncoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SQLEncoderLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
