@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/SqlInjection
+/packages
+/WebFormsClient/bin
+/WebFormsClient/obj/Debug
